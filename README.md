@@ -4,4 +4,6 @@ this is demo: https://www.tiktok.com/@iamwuy20/video/7164292432673131803?is_copy
 
 link để chạy: https://www.onlinegdb.com/ 
 (chỉnh sang html,JS,css)
-![image](https://user-images.githubusercontent.com/66549585/201460829-17d78831-7ab7-4709-9d71-e388a2914898.png)
+
+![image](https://user-images.githubusercontent.com/66549585/201460888-a6b83511-484a-4c23-9a6a-4c8aa43bafcd.png)
+
